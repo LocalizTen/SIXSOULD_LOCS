@@ -6,12 +6,15 @@ Translations for Six Souls: Requiem for Forgotten Birds
 </div>  
 
 ## Quick Q&A
-*Q*: Why is this repo empty? 
-*A*: I'm preparing files for translation.
-
-*Q*: What do you mean by maybe?
-*A*: I didn't test my test translation. :D
-
+*Q*: Why is this repo empty?  
+*A*: I'm preparing files for translation.  
+  
+*Q*: What do you mean by maybe?  
+*A*: I didn't test my test translation. :D  
+  
 *Q*: How can I help translate Six Souls?  
 *A*: I will let you know as soon as possible.
+  
+<hr>
 
+Made with a little hate by unsalted taiwanese fish
